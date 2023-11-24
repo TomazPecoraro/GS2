@@ -39,3 +39,22 @@
     font-size: 25px;
     padding: 35px;
 }
+
+.select {
+    color: black;
+    background-color: #EEEEEE;
+    font-size: 20px;
+}
+
+.botao {
+    font-size: 30px;
+    margin: 40px;
+    padding: 10px;
+}
+
+.diagnostico {
+    color: black;
+    font-size: 25px;
+    margin: 50px;
+    padding-bottom: 50px;
+}
