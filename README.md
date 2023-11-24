@@ -37,7 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Integrantes Grupo
 --RM551737 - Alexandre Portugal do Nascimento Teles (1TDSPX) 
+
 --RM98249 - Felipe Sieiro Paim dos Santos (1TDSPX) 
+
 --RM551643 - Jonathan Mateus Souza de Moraes (1TDSPX) 
+
 --RM98499 - Tomaz de Oliveira Pecoraro (1TDSPM)
+
 --RM551005 - Ivan Rangel Pestana Marcolin (1TDSPF)
