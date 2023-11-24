@@ -13,3 +13,29 @@
     margin: 10px;
     padding: 10px;
 }
+
+
+.perguntas {
+    margin: 70px;
+    padding: 2px;
+    color: black;
+    background-color: #EEEEEE;
+    font-size: 20px;
+}
+
+.titulo {
+    color: white;
+    background-color: #009A35;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.campos {
+    margin: 10px;
+}
+
+.subtitulo {
+    color: black;
+    font-size: 25px;
+    padding: 35px;
+}
