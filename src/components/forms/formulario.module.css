@@ -1,0 +1,60 @@
+.bg {
+    background-color: #383838;
+    padding: 70px;
+    align-items: center;
+}
+
+.forms{
+    font-weight: 500;
+    color: white; 
+    background-color: #D9D9D9;
+    width: 1350px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.perguntas {
+    margin: 70px;
+    padding: 2px;
+    color: black;
+    background-color: #EEEEEE;
+    font-size: 20px;
+}
+
+.titulo {
+    color: white;
+    background-color: #009A35;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.campos {
+    margin: 10px;
+}
+
+.subtitulo {
+    color: black;
+    font-size: 25px;
+    padding: 35px;
+}
+
+.select {
+    color: black;
+    background-color: #EEEEEE;
+    font-size: 20px;
+}
+
+.botao {
+    font-size: 30px;
+    margin: 40px;
+    padding: 10px;
+}
+
+.diagnostico {
+    color: black;
+    font-size: 25px;
+    margin: 50px;
+    padding-bottom: 50px;
+}
