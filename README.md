@@ -35,6 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+Link Vercel: https://gs-2-alpha.vercel.app/
+
 ## Integrantes Grupo
 --RM551737 - Alexandre Portugal do Nascimento Teles (1TDSPX) 
 
@@ -45,3 +47,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 --RM98499 - Tomaz de Oliveira Pecoraro (1TDSPM)
 
 --RM551005 - Ivan Rangel Pestana Marcolin (1TDSPF)
+
+## Credenciais Oracle BD
+
+UserName: rm551643
+Senha: 260404
