@@ -1,0 +1,55 @@
+.bg {
+    background-color: #383838;
+}
+
+.bgdoencas{
+    background: #383838;
+    display: grid;
+    grid-template-columns: 600px 600px;
+    padding: 50px;
+    padding-bottom: 70px;
+    grid-gap: 50px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.doencas {
+    align-items: center;
+}
+
+.nome {
+    color: white;
+    background-color: #00D047;
+    font-weight: 700;
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.causas {
+    color: black;
+}
+
+.sintomas {
+    color: black;
+}
+
+.tratamentos {
+    color: black;
+}
+
+.desc{
+    background-color: #D9D9D9;
+    width: 600px;
+    padding: 15px;
+}
